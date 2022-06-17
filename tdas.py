@@ -12,7 +12,7 @@ Builder.load_string("""
 
         Image:
             id: gif
-            source: 'tdas.zip'
+            source: 'img_src/tdas.zip'
             center: self.parent.center
             size: 500, 500
             allow_stretch: True
